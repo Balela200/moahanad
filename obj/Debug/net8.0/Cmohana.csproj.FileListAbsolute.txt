@@ -1,0 +1,14 @@
+c:\Users\momo-\Desktop\Cmohana\bin\Debug\net8.0\Cmohana.exe
+c:\Users\momo-\Desktop\Cmohana\bin\Debug\net8.0\Cmohana.deps.json
+c:\Users\momo-\Desktop\Cmohana\bin\Debug\net8.0\Cmohana.runtimeconfig.json
+c:\Users\momo-\Desktop\Cmohana\bin\Debug\net8.0\Cmohana.dll
+c:\Users\momo-\Desktop\Cmohana\bin\Debug\net8.0\Cmohana.pdb
+c:\Users\momo-\Desktop\Cmohana\obj\Debug\net8.0\Cmohana.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\momo-\Desktop\Cmohana\obj\Debug\net8.0\Cmohana.AssemblyInfoInputs.cache
+c:\Users\momo-\Desktop\Cmohana\obj\Debug\net8.0\Cmohana.AssemblyInfo.cs
+c:\Users\momo-\Desktop\Cmohana\obj\Debug\net8.0\Cmohana.csproj.CoreCompileInputs.cache
+c:\Users\momo-\Desktop\Cmohana\obj\Debug\net8.0\Cmohana.dll
+c:\Users\momo-\Desktop\Cmohana\obj\Debug\net8.0\refint\Cmohana.dll
+c:\Users\momo-\Desktop\Cmohana\obj\Debug\net8.0\Cmohana.pdb
+c:\Users\momo-\Desktop\Cmohana\obj\Debug\net8.0\Cmohana.genruntimeconfig.cache
+c:\Users\momo-\Desktop\Cmohana\obj\Debug\net8.0\ref\Cmohana.dll
